@@ -1,0 +1,49 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630 (ID=0xf00)
+    Vendor:   NVIDIA
+    VRAM:     4009 MB
+    Driver:   21.21.13.7290
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.018 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.152806 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.626036 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.262920 ms (FindLiveObjects: 0.027771 ms CreateObjectMapping: 0.024752 ms MarkObjects: 0.203454 ms  DeleteObjects: 0.006037 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.517389 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.244809 ms (FindLiveObjects: 0.022941 ms CreateObjectMapping: 0.025960 ms MarkObjects: 0.190474 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487806 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.247223 ms (FindLiveObjects: 0.026261 ms CreateObjectMapping: 0.023545 ms MarkObjects: 0.191379 ms  DeleteObjects: 0.005131 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4e5c -> priority: 1 
+  Thread -> id: 2558 -> priority: 1 
+  Thread -> id: 328c -> priority: 1 
+  Thread -> id: 3084 -> priority: 1 

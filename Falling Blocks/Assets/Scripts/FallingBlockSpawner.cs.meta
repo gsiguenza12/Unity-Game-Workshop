@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5271a49bede5831498d657dbd4b4ec55
+timeCreated: 1506667697
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fallingBlockPrefab: {fileID: 1567461917373984, guid: ee21fc501336e984a94b25222f2dfb6d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
