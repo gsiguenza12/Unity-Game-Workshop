@@ -19,31 +19,25 @@ Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe
 Loading C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
 Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Chris\Documents\Programming\Unity\Falling Blocks\Exe\FallingBlocks_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.018 seconds
+- Completed reload, in  0.019 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.152806 ms
+UnloadTime: 0.634813 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.626036 ms
+UnloadTime: 4.312080 ms
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 320.
-Total: 0.262920 ms (FindLiveObjects: 0.027771 ms CreateObjectMapping: 0.024752 ms MarkObjects: 0.203454 ms  DeleteObjects: 0.006037 ms)
+Total: 0.206170 ms (FindLiveObjects: 0.036223 ms CreateObjectMapping: 0.023243 ms MarkObjects: 0.142478 ms  DeleteObjects: 0.003320 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.517389 ms
+UnloadTime: 0.412039 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
-Total: 0.244809 ms (FindLiveObjects: 0.022941 ms CreateObjectMapping: 0.025960 ms MarkObjects: 0.190474 ms  DeleteObjects: 0.005131 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.487806 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 320.
-Total: 0.247223 ms (FindLiveObjects: 0.026261 ms CreateObjectMapping: 0.023545 ms MarkObjects: 0.191379 ms  DeleteObjects: 0.005131 ms)
+Total: 0.225188 ms (FindLiveObjects: 0.029884 ms CreateObjectMapping: 0.022941 ms MarkObjects: 0.168438 ms  DeleteObjects: 0.003320 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 4e5c -> priority: 1 
-  Thread -> id: 2558 -> priority: 1 
-  Thread -> id: 328c -> priority: 1 
-  Thread -> id: 3084 -> priority: 1 
+  Thread -> id: 2618 -> priority: 1 
+  Thread -> id: 2290 -> priority: 1 
+  Thread -> id: 4644 -> priority: 1 
+  Thread -> id: 2804 -> priority: 1 
